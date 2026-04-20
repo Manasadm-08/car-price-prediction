@@ -1,1 +1,2 @@
 # car-price-prediction
+This project uses Machine Learning to predict car prices based on features such as year, kilometers driven, fuel type, transmission, engine capacity, and other specifications. The dataset is preprocessed by encoding categorical variables and handling data efficiently, and a regression model is trained to learn the relationship between features and car prices. The model is evaluated using performance metrics like R² score, and it can be used to estimate the price of a car based on new input data.
